@@ -1,0 +1,53 @@
+{
+    "wallet": 0,
+    "xp": 440,
+    "vault_cash": 151.42857142857142,
+    "weekly_budget": 210.0,
+    "daily_limit": 42.857142857142854,
+    "spent_today": 0.0,
+    "last_login": "2026-09-29",
+    "buttons": [
+        {
+            "name": "عشاء مطعم 🍔",
+            "type": "premium",
+            "points": 0,
+            "cash": 30.0,
+            "req_xp": 1000,
+            "linked_goal": ""
+        },
+        {
+            "name": "مذاكرة 30د",
+            "type": "task",
+            "points": 15,
+            "cash": 0.0,
+            "req_xp": 0,
+            "linked_goal": ""
+        },
+        {
+            "name": "V60",
+            "type": "reward",
+            "points": 15,
+            "cash": 0.0,
+            "req_xp": 0,
+            "linked_goal": ""
+        },
+        {
+            "name": "eeee",
+            "type": "task",
+            "points": 500,
+            "cash": 0.0,
+            "req_xp": 0,
+            "linked_goal": "vhjdwfjs"
+        }
+    ],
+    "budget_days": 7,
+    "budget_amount": 300.0,
+    "points_today": 0,
+    "goals": [
+        {
+            "name": "vhjdwfjs",
+            "current": 2500,
+            "target": 4000
+        }
+    ]
+}
